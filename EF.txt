@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "DataSource=C:\\Users\\Eliss\\source\\repos\\ReceiptAPI\ReceiptDB.db" Microsoft.EntityFrameworkCore.SQLite -OutputDir Models
